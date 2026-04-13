@@ -18,8 +18,9 @@ Xóa code cũ và dán:
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/487e4f43-a8b1-4632-a584-86fcd770db39" />
 
+- kết quả
 
+  + test: kết quả chạy thành công 
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/435e9071-82d3-4666-97d7-5cb7dbcdf57d" />
-
 
